@@ -8,7 +8,7 @@ import { SiteShell } from '@/components/SiteShell'
 export default function Login(){
   return (
     <SiteShell>
-<div className="py-24">
+    <div className="py-24">
       <div className="mx-auto max-w-md px-4">
         <Card>
           <CardHeader>

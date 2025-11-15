@@ -9,5 +9,7 @@ export default defineConfig({
       '@': '/src'
     }
   },
-  server: { port: 5173 }
+  server: { port: 5173 },
+  base: "/harvest-hive/",
 })
+  
