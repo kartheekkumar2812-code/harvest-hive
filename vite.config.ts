@@ -10,6 +10,6 @@ export default defineConfig({
     }
   },
   server: { port: 5173 },
-  base: "/harvest-hive/",
+  base: "/",
 })
   
